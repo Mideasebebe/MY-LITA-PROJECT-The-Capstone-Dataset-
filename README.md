@@ -21,8 +21,9 @@ The capstone dataset is a dataset given as a project to work on as my project to
 
 -	Excel:
     1. Data cleaning and preprocessing
-    2. Pivot tables and charts for data visualization
-    3. Formulas and calculations for data analysis
+       
+    3. Pivot tables and charts for data visualization
+    4. Formulas and calculations for data analysis
 -	SQL:
     1. Data querying and filtering
     2. Joining and merging datasets
