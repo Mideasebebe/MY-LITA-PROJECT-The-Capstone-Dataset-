@@ -36,6 +36,8 @@ The capstone dataset is a dataset given as a project to work on as my project to
 ## QUESTIONS: Sales Performance Analysis
  ### Excel:
 - Perform an initial exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month.
+- ![Screenshot (5)](https://github.com/user-attachments/assets/85501829-ae36-45c4-8da4-0302dc7fa3b3)
+
 - Use Excel formulas to calculate metrics such as average sales per product and total revenue by region.
 - Create any other interesting report
 
