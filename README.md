@@ -37,9 +37,18 @@ The capstone dataset is a dataset given as a project to work on as my project to
  ### Excel:
 - Perform an initial exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month.
 - ![Screenshot (5)](https://github.com/user-attachments/assets/85501829-ae36-45c4-8da4-0302dc7fa3b3)
-
+- The Image above shows a cleaned dataset after removing duplicate and calculating the Sales.
+- <img width="976" alt="Q1 Sales" src="https://github.com/user-attachments/assets/d4674655-8827-46f3-aacb-ddf2600c731e">
+The image above is the total sales by product, region and month using pivot table.
 - Use Excel formulas to calculate metrics such as average sales per product and total revenue by region.
+- <img width="950" alt="Q2 Sales" src="https://github.com/user-attachments/assets/2165865c-e3b3-4a54-8319-35fb06f31b50">
+The image above is the average sales per product and total revenue by region using excel functions. To get this i first unique out products and region respectively and then used the *sumif* function.
 - Create any other interesting report
+- <img width="953" alt="Dashboard exceal sales" src="https://github.com/user-attachments/assets/2169dd0d-24c0-48b9-ab6c-0984bb520b31">
+### CONCLUSION
+From the above dashboard we can draw a conclusion that:
+- The regionwith the higher sales is the *SOUTH*, While the region with the lowest sales is the *WEST*, We have to carry out a survey to know why sales is poor in the westand then come up with a solution to maximize sales there.
+- Also the product with the higher sales is the *SHOE* while *JACKET and SOCKS* is least even during harmattan season, which is odd. We have to carry out a survey to know why these products are performing poorly. So we might end up doing a popup sale of buy 1 get 1 free.
 
   ### SQL:
 Hint – You need to load the dataset into your SQL Server environment to write and validate your queries.
