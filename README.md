@@ -78,19 +78,34 @@ From the above dashboard we can draw a conclusion that:
 
   ### Excel:
 - Analyze customer data using pivot tables to find subscription patterns.
+  <img width="963" alt="c;;eaned Customer" src="https://github.com/user-attachments/assets/f0ed14c0-704d-4e68-aedb-3f56d783303a">
+- The Image above shows a cleaned dataset after removing duplicate and calculating the Sales.
+  <img width="973" alt="Q1 Customer" src="https://github.com/user-attachments/assets/5ed03caa-d601-44cd-a651-3d50b73897b7">
+-The image above shows the subscription patterns.
 - Calculate the average subscription duration and identify the most popular subscription types.
 - Create any other interesting reports.
+  <img width="729" alt="Dashboard Customer" src="https://github.com/user-attachments/assets/0a13da02-91f6-4bae-b36c-35a706221639">
+
 
   ### SQL:
 Hint – You need to load the dataset into your SQL Server environment to write and validate your queries. Write queries to extract key insights based on the following questions. 
 - retrieve the total number of customers from each region.
+  <img width="964" alt="Q1 SQL Customer" src="https://github.com/user-attachments/assets/df24836a-8818-41af-9576-7e8163bd5dad">
 - find the most popular subscription type by the number of customers.
+  <img width="954" alt="Q2 SQL customer" src="https://github.com/user-attachments/assets/65d023c5-015d-4530-b5e5-5b7b9550bc3b">
 - find customers who canceled their subscription within 6 months.
+  <img width="955" alt="Q3 SQL Customer" src="https://github.com/user-attachments/assets/adb11f39-9efe-4098-a792-5033e87f8f35">
 - calculate the average subscription duration for all customers.
+  <img width="953" alt="Q4 SQL Customer" src="https://github.com/user-attachments/assets/30cec909-fa47-4d86-84a8-5745ddbff1c6">
 - find customers with subscriptions longer than 12 months.
+  <img width="959" alt="Q5 SQL Customer" src="https://github.com/user-attachments/assets/cfd49ba1-0e11-4056-bf2f-6c599d784dfb">
 - calculate total revenue by subscription type.
+  <img width="955" alt="Q6 SQL Customer" src="https://github.com/user-attachments/assets/46e9c081-45e3-4ef4-8446-ae79ee4b27fb">
 - find the top 3 regions by subscription cancellations.
+  <img width="953" alt="Q7 SQL Customer" src="https://github.com/user-attachments/assets/7592f650-89bd-4900-9c8f-62c57201a2e7">
 - find the total number of active and canceled subscriptions.
+  <img width="964" alt="Q8 SQL Customer" src="https://github.com/user-attachments/assets/1854f255-ab2d-407e-84f6-e70e792c7ee8">
+
 
   ### Power BI:
 - Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends. Include slicers for interactive analysis.
