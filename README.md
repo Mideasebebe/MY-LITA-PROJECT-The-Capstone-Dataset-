@@ -21,9 +21,8 @@ The capstone dataset is a dataset given as a project to work on as my project to
 
 -	Excel:
     1. Data cleaning and preprocessing
-       
-    3. Pivot tables and charts for data visualization
-    4. Formulas and calculations for data analysis
+    2. Pivot tables and charts for data visualization
+    3. Formulas and calculations for data analysis
 -	SQL:
     1. Data querying and filtering
     2. Joining and merging datasets
@@ -64,6 +63,8 @@ Write queries to extract key insights based on the following questions.
 - calculate the percentage of total sales contributed by each region.
   ![Q7 SQL sales](https://github.com/user-attachments/assets/f43249e9-01b4-40ac-834b-fa1e195407ce)
 - identify products with no sales in the last quarter.
+  <img width="968" alt="sales sql 8" src="https://github.com/user-attachments/assets/ae86d0cf-a3b8-41d9-8013-ab1ff4199a92">
+
 
   ### Power BI:
 - Create a dashboard that visualizes the insights found in Excel and SQL. The dashboard should include a sales overview, top-performing products, and regional breakdowns
@@ -111,3 +112,7 @@ Hint – You need to load the dataset into your SQL Server environment to write 
 
   ### Power BI:
 - Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends. Include slicers for interactive analysis.
+
+### CONCLUSION
+From the above dashboard diagram we camn draw a conclusion that:
+- Each of the 4 regions only purchased one each of the subscription type, we need to carry out survey in all of the regions to know why this is happening. 
