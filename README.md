@@ -36,15 +36,16 @@ The capstone dataset is a dataset given as a project to work on as my project to
 ## QUESTIONS: Sales Performance Analysis
  ### Excel:
 - Perform an initial exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month.
-- ![Screenshot (5)](https://github.com/user-attachments/assets/85501829-ae36-45c4-8da4-0302dc7fa3b3)
+ ![Screenshot (5)](https://github.com/user-attachments/assets/85501829-ae36-45c4-8da4-0302dc7fa3b3)
 - The Image above shows a cleaned dataset after removing duplicate and calculating the Sales.
-- <img width="976" alt="Q1 Sales" src="https://github.com/user-attachments/assets/d4674655-8827-46f3-aacb-ddf2600c731e">
+ <img width="976" alt="Q1 Sales" src="https://github.com/user-attachments/assets/d4674655-8827-46f3-aacb-ddf2600c731e">
 The image above is the total sales by product, region and month using pivot table.
 - Use Excel formulas to calculate metrics such as average sales per product and total revenue by region.
-- <img width="950" alt="Q2 Sales" src="https://github.com/user-attachments/assets/2165865c-e3b3-4a54-8319-35fb06f31b50">
+ <img width="950" alt="Q2 Sales" src="https://github.com/user-attachments/assets/2165865c-e3b3-4a54-8319-35fb06f31b50">
 The image above is the average sales per product and total revenue by region using excel functions. To get this i first unique out products and region respectively and then used the *sumif* function.
 - Create any other interesting report
-- <img width="953" alt="Dashboard exceal sales" src="https://github.com/user-attachments/assets/2169dd0d-24c0-48b9-ab6c-0984bb520b31">
+  <img width="508" alt="SALES EXCEL DASHBOARD COR" src="https://github.com/user-attachments/assets/bd0dff68-10c9-4e48-aa19-7b94eb037fc6">
+
 
   ### SQL:
 Hint – You need to load the dataset into your SQL Server environment to write and validate your queries.
@@ -84,7 +85,8 @@ From the above dashboard we can draw a conclusion that:
 -The image above shows the subscription patterns.
 - Calculate the average subscription duration and identify the most popular subscription types.
 - Create any other interesting reports.
-  <img width="729" alt="Dashboard Customer" src="https://github.com/user-attachments/assets/0a13da02-91f6-4bae-b36c-35a706221639">
+  <img width="548" alt="CUSTOMER EXCEL DASHBOARD COR" src="https://github.com/user-attachments/assets/828bfdc6-8892-4409-9bef-260d99ae45dc">
+
 
 
   ### SQL:
