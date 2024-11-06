@@ -112,6 +112,8 @@ Hint – You need to load the dataset into your SQL Server environment to write 
 
   ### Power BI:
 - Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends. Include slicers for interactive analysis.
+  <img width="610" alt="Customer BI Dashboard" src="https://github.com/user-attachments/assets/9b816f8e-5ae4-43e2-a938-c34fc32d83fa">
+
 
 ### CONCLUSION
 From the above dashboard diagram we camn draw a conclusion that:
